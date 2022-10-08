@@ -1,5 +1,5 @@
 import demo from '../app';
 
-test('add character in Team', () => {
+test('test demo function', () => {
   expect(demo(512)).toBe(512);
 });
